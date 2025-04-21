@@ -27,3 +27,31 @@ To create a transparent, secure, and decentralized crowdfunding platform that al
 - 🌐 Frontend DApp with wallet integration (MetaMask)
 - 📈 Add support for multiple campaigns and different owners
 
+Contract details : 0x340dad9C19485CeC4dC76F86b7B06dB3Ec15D257
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
