@@ -28,6 +28,7 @@ To create a transparent, secure, and decentralized crowdfunding platform that al
 - 📈 Add support for multiple campaigns and different owners
 
 Contract details : 0x340dad9C19485CeC4dC76F86b7B06dB3Ec15D257
+![Screenshot 2025-04-22 191442](https://github.com/user-attachments/assets/37d955ae-9b96-49e2-861e-ad98afccd65a)
 
 
 
