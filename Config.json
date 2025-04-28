@@ -1,0 +1,16 @@
+{
+  "contractAddress": "YOUR_CONTRACT_ADDRESS_HERE",
+  "network": "sepolia",
+  "abi": [
+    "function contribute() external payable",
+    "function withdrawFunds() external",
+    "function requestRefund() external",
+    "function checkBalance() external view returns (uint256)",
+    "function getGoal() external view returns (uint256)",
+    "function getTotalRaised() external view returns (uint256)",
+    "function getDeadline() external view returns (uint256)",
+    "function getTimeLeft() external view returns (uint256)",
+    "function getContractInfo() external view returns (address,uint256,uint256,uint256,uint256)",
+    "function getCampaignStatus() external view returns (string memory)"
+  ]
+}
